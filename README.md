@@ -49,7 +49,7 @@ The repository contains a zipped directory, `infinite.zip`, with the following s
 
 ### **LSTM Task**
 1. **EN_UOC_data_2018_19.csv**  
-   Meteorological dataset with measurements taken at 10-minute intervals:
+   Meteorological dataset from location (35.3069° N, 25.0819° E) with measurements taken between November 6, 2018 and November 8, 2019 at 10-minute intervals:
    - **Column 1**: Date/Time
    - **Column 2**: Temperature (°C)
    - **Column 3**: Minimum Temperature (°C)
